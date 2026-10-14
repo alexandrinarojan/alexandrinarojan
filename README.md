@@ -11,6 +11,8 @@ Data: Python (pandas, NumPy, Matplotlib, Seaborn), SQL, Excel, Power BI, Tableau
 Databases: PostgreSQL, MySQL. <br>
 Other: Java, JavaScript, React, Django, Git. <br>
 
+Projects:
+
 Contact
 [LinkedIn](https://www.linkedin.com/in/alexandrina-ileana-rojan/) 
 [Email](mailto:ina.rojan@you4edu.ro)
