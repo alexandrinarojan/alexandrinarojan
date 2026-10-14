@@ -7,9 +7,9 @@ I'm a Data Analyst with a BSc in Computer Science from the University of Birming
 
 🛠️ Tools I use
 
-Data: Python (pandas, NumPy, Matplotlib, Seaborn), SQL, Excel, Power BI, Tableau
-Databases: PostgreSQL, MySQL
-Other: Java, JavaScript, React, Django, Git
+Data: Python (pandas, NumPy, Matplotlib, Seaborn), SQL, Excel, Power BI, Tableau. 
+Databases: PostgreSQL, MySQL. 
+Other: Java, JavaScript, React, Django, Git.
 
 Contact
 [LinkedIn](https://www.linkedin.com/in/alexandrina-ileana-rojan/) 
