@@ -12,7 +12,8 @@ Databases: PostgreSQL, MySQL
 Other: Java, JavaScript, React, Django, Git
 
 Contact
-[LinkedIn](https://www.linkedin.com/in/alexandrina-ileana-rojan/) [Email](mailto:ina.rojan@you4edu.ro)
+[LinkedIn](https://www.linkedin.com/in/alexandrina-ileana-rojan/) 
+[Email](mailto:ina.rojan@you4edu.ro)
 <!--
 **alexandrinarojan/alexandrinarojan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
