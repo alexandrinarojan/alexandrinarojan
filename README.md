@@ -14,7 +14,7 @@ I'm a Data Analyst with a BSc in Computer Science from the University of Birming
 
 #### [InaVale Assurance – multi-layer analytics dashboard](https://github.com/alexandrinarojan/inavale-dashboard) · [Live demo](https://alexandrinarojan.github.io/inavale-dashboard/)
 
-[![InaVale Assurance dashboard](https://raw.githubusercontent.com/alexandrinarojan/inavale-dashboard/main/preview.png)](https://alexandrinarojan.github.io/inavale-dashboard/)
+[![InaVale Assurance dashboard](https://raw.githubusercontent.com/alexandrinarojan/inavale-dashboard/main/captura1.png)](https://alexandrinarojan.github.io/inavale-dashboard/)
 
 An interactive dashboard for a fictional insurance group, from “what happened” to “what we do”: 6 domains × 4 layers of analysis (descriptive, diagnostic, predictive, scenarios), in Romanian and English.
 
